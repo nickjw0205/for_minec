@@ -1,0 +1,260 @@
+---- Minecraft Crash Report ----
+// Ooh. Shiny.
+
+Time: 1/29/18 8:16 PM
+Description: Watching Server
+
+java.lang.Error
+	at bbu.a(SourceFile:47)
+	at azb.a(SourceFile:34)
+	at aze.b(SourceFile:588)
+	at on.f(SourceFile:127)
+	at on.b(SourceFile:81)
+	at ot.<init>(SourceFile:40)
+	at ou.c(SourceFile:196)
+	at ou.c(SourceFile:288)
+	at pl.d(SourceFile:342)
+	at pa.a(SourceFile:550)
+	at lk.a(SourceFile:126)
+	at lk$b.a(SourceFile:18)
+	at hv$1.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at h.a(SourceFile:46)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:604)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at bbu.a(SourceFile:47)
+	at azb.a(SourceFile:34)
+	at aze.b(SourceFile:588)
+	at on.f(SourceFile:127)
+	at on.b(SourceFile:81)
+	at ot.<init>(SourceFile:40)
+	at ou.c(SourceFile:196)
+	at ou.c(SourceFile:288)
+	at pl.d(SourceFile:342)
+	at pa.a(SourceFile:550)
+	at lk.a(SourceFile:126)
+	at lk$b.a(SourceFile:18)
+	at hv$1.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at h.a(SourceFile:46)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:604)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #3" Id=35 BLOCKED on java.util.ArrayDeque@6575e865 owned by "Server thread" Id=20
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1254)
+	-  blocked on java.util.ArrayDeque@6575e865
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1271)
+	at oo.a(SourceFile:1159)
+	at hv.a(SourceFile:10)
+	at pa.a(SourceFile:425)
+	at lk.a(SourceFile:126)
+	at lk$a.a(SourceFile:57)
+	at gw.a(SourceFile:135)
+	...
+
+
+"File IO Thread" Id=34 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at bgx.c(SourceFile:51)
+	at bgx.run(SourceFile:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Server IO #2" Id=31 BLOCKED on java.util.ArrayDeque@6575e865 owned by "Server thread" Id=20
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1254)
+	-  blocked on java.util.ArrayDeque@6575e865
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1271)
+	at oo.a(SourceFile:1159)
+	at hv.a(SourceFile:10)
+	at pa.a(SourceFile:425)
+	at lk.a(SourceFile:126)
+	at lk$b.a(SourceFile:18)
+	at gw.a(SourceFile:135)
+	...
+
+
+"threadDeathWatcher-2-1" Id=27 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Server IO #1" Id=26 BLOCKED on java.util.ArrayDeque@6575e865 owned by "Server thread" Id=20
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1254)
+	-  blocked on java.util.ArrayDeque@6575e865
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1271)
+	at oo.a(SourceFile:1159)
+	at hv.a(SourceFile:10)
+	at pa.a(SourceFile:425)
+	at lk.a(SourceFile:126)
+	at lk$b.a(SourceFile:18)
+	at gw.a(SourceFile:135)
+	...
+
+
+"Server Watchdog" Id=25 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at oa.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Server IO #0" Id=24 RUNNABLE (in native)
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:117)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@6bb21abb
+	-  locked java.util.Collections$UnmodifiableSet@6f8d8315
+	-  locked sun.nio.ch.KQueueSelectorImpl@2a8f1080
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"DestroyJavaVM" Id=23 RUNNABLE
+
+
+"Server thread" Id=20 RUNNABLE
+	at bbu.a(SourceFile:47)
+	-  locked bbo@6073f374
+	at azb.a(SourceFile:34)
+	at aze.b(SourceFile:588)
+	at on.f(SourceFile:127)
+	at on.b(SourceFile:81)
+	at ot.<init>(SourceFile:40)
+	at ou.c(SourceFile:196)
+	at ou.c(SourceFile:288)
+	...
+
+
+"TimerQueue" Id=19 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1879e750
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1879e750
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:223)
+	at javax.swing.TimerQueue.run(TimerQueue.java:174)
+	at java.lang.Thread.run(Thread.java:748)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@1b6f5a03
+
+
+"Thread-2" Id=18 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4aa0efcf
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4aa0efcf
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+	at oc$4.run(SourceFile:129)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"AWT-EventQueue-0" Id=17 RUNNABLE
+	at javax.swing.text.PlainView.updateDamage(PlainView.java:539)
+	at javax.swing.text.PlainView.insertUpdate(PlainView.java:451)
+	at javax.swing.plaf.basic.BasicTextUI$RootView.insertUpdate(BasicTextUI.java:1610)
+	at javax.swing.plaf.basic.BasicTextUI$UpdateHandler.insertUpdate(BasicTextUI.java:1869)
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:201)
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:748)
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:707)
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:130)
+	...
+
+
+"Java2D Disposer" Id=16 WAITING on java.lang.ref.ReferenceQueue$Lock@35b75dbc
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@35b75dbc
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Java2D Queue Flusher" Id=15 TIMED_WAITING on sun.java2d.opengl.OGLRenderQueue$QueueFlusher@5469b64b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on sun.java2d.opengl.OGLRenderQueue$QueueFlusher@5469b64b
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.run(OGLRenderQueue.java:203)
+
+
+"AWT-Shutdown" Id=14 WAITING on java.lang.Object@37d88f1
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@37d88f1
+	at java.lang.Object.wait(Object.java:502)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:295)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"AppKit Thread" Id=13 RUNNABLE (in native)
+
+
+"Server Infinisleeper" Id=12 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at nz$1.run(SourceFile:84)
+
+
+"Snooper Timer" Id=11 TIMED_WAITING on java.util.TaskQueue@4eeed1c6
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@4eeed1c6
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@41bb2f1a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@41bb2f1a
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@58f90288
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@58f90288
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+Stacktrace:
+	at oa.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 10.12.6
+	Java Version: 1.8.0_151, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 694083584 bytes (661 MB) / 892862464 bytes (851 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 3 / 20; [oq['mhr_skr'/751, l='world', x=34.31, y=72.00, z=-35.69], oq['nomadnick02'/940, l='world', x=-67.72, y=67.00, z=288.13], oq['pulchella'/3804, l='world', x=-16.39, y=69.00, z=223.70]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

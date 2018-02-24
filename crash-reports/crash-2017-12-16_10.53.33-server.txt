@@ -1,0 +1,433 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 12/16/17 10:53 AM
+Description: Watching Server
+
+java.lang.Error
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.get(Long2ObjectOpenHashMap.java:454)
+	at on.a(SourceFile:68)
+	at on.b(SourceFile:78)
+	at on.c(SourceFile:95)
+	at amu.a(SourceFile:303)
+	at amu.f(SourceFile:299)
+	at amu.o(SourceFile:736)
+	at amu.a(SourceFile:2422)
+	at amu.x(SourceFile:2448)
+	at amu.c(SourceFile:2467)
+	at amu.z(SourceFile:2498)
+	at atf.a(SourceFile:175)
+	at atf.e(SourceFile:156)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:434)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:439)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:439)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:434)
+	at amu.a(SourceFile:396)
+	at amu.a(SourceFile:338)
+	at ath.b(SourceFile:123)
+	at oo.a(SourceFile:641)
+	at oo.d(SourceFile:220)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.get(Long2ObjectOpenHashMap.java:454)
+	at on.a(SourceFile:68)
+	at on.b(SourceFile:78)
+	at on.c(SourceFile:95)
+	at amu.a(SourceFile:303)
+	at amu.f(SourceFile:299)
+	at amu.o(SourceFile:736)
+	at amu.a(SourceFile:2422)
+	at amu.x(SourceFile:2448)
+	at amu.c(SourceFile:2467)
+	at amu.z(SourceFile:2498)
+	at atf.a(SourceFile:175)
+	at atf.e(SourceFile:156)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:434)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:439)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:437)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:439)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:438)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:436)
+	at atf.e(SourceFile:161)
+	at atf.a(SourceFile:311)
+	at awu$a.a(SourceFile:418)
+	at amu.a(SourceFile:473)
+	at amu.b(SourceFile:434)
+	at amu.a(SourceFile:396)
+	at amu.a(SourceFile:338)
+	at ath.b(SourceFile:123)
+	at oo.a(SourceFile:641)
+	at oo.d(SourceFile:220)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+
+-- Thread Dump --
+Details:
+	Threads: "File IO Thread" Id=32 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at bgx.c(SourceFile:51)
+	at bgx.run(SourceFile:30)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"threadDeathWatcher-2-1" Id=28 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Server IO #1" Id=27 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:117)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@3bbfdaeb
+	-  locked java.util.Collections$UnmodifiableSet@357823ec
+	-  locked sun.nio.ch.KQueueSelectorImpl@3147b19b
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"Server Watchdog" Id=25 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at oa.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Server IO #0" Id=24 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:117)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@744529d7
+	-  locked java.util.Collections$UnmodifiableSet@31e8dd36
+	-  locked sun.nio.ch.KQueueSelectorImpl@45fbffa4
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"DestroyJavaVM" Id=22 RUNNABLE
+
+
+"Server thread" Id=20 RUNNABLE
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.get(Long2ObjectOpenHashMap.java:454)
+	at on.a(SourceFile:68)
+	at on.b(SourceFile:78)
+	at on.c(SourceFile:95)
+	at amu.a(SourceFile:303)
+	at amu.f(SourceFile:299)
+	at amu.o(SourceFile:736)
+	at amu.a(SourceFile:2422)
+	...
+
+
+"TimerQueue" Id=19 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@146ad698
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@146ad698
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.DelayQueue.take(DelayQueue.java:223)
+	at javax.swing.TimerQueue.run(TimerQueue.java:174)
+	at java.lang.Thread.run(Thread.java:748)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@49bc55e9
+
+
+"Thread-2" Id=18 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@631cb84e
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@631cb84e
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+	at oc$4.run(SourceFile:129)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"AWT-EventQueue-0" Id=17 WAITING on sun.java2d.opengl.OGLRenderQueue$QueueFlusher@52b87c92 owned by "Java2D Queue Flusher" Id=15
+	at java.lang.Object.wait(Native Method)
+	-  waiting on sun.java2d.opengl.OGLRenderQueue$QueueFlusher@52b87c92
+	at java.lang.Object.wait(Object.java:502)
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.flushNow(OGLRenderQueue.java:176)
+	at sun.java2d.opengl.OGLRenderQueue.flushNow(OGLRenderQueue.java:124)
+	at sun.java2d.opengl.OGLBlitLoops.IsoBlit(OGLBlitLoops.java:373)
+	at sun.java2d.opengl.OGLRTTSurfaceToSurfaceBlit.Blit(OGLBlitLoops.java:463)
+	at sun.java2d.pipe.DrawImage.blitSurfaceData(DrawImage.java:959)
+	at sun.java2d.pipe.DrawImage.renderImageCopy(DrawImage.java:577)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@79806d56
+
+
+"Java2D Disposer" Id=16 WAITING on java.lang.ref.ReferenceQueue$Lock@1024ae4b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@1024ae4b
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Java2D Queue Flusher" Id=15 RUNNABLE
+	at sun.java2d.opengl.OGLRenderQueue.flushBuffer(Native Method)
+	at sun.java2d.opengl.OGLRenderQueue.flushBuffer(OGLRenderQueue.java:148)
+	at sun.java2d.opengl.OGLRenderQueue.access$100(OGLRenderQueue.java:41)
+	at sun.java2d.opengl.OGLRenderQueue$QueueFlusher.run(OGLRenderQueue.java:226)
+	-  locked sun.java2d.opengl.OGLRenderQueue$QueueFlusher@52b87c92
+
+
+"AWT-Shutdown" Id=14 WAITING on java.lang.Object@167caac9
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@167caac9
+	at java.lang.Object.wait(Object.java:502)
+	at sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:295)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"AppKit Thread" Id=13 RUNNABLE
+
+
+"Server Infinisleeper" Id=12 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at nz$1.run(SourceFile:84)
+
+
+"Snooper Timer" Id=11 TIMED_WAITING on java.util.TaskQueue@6c6c9f8d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@6c6c9f8d
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@7d21327e
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@7d21327e
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@48c28d67
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@48c28d67
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+Stacktrace:
+	at oa.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 10.12.6
+	Java Version: 1.8.0_151, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 806938784 bytes (769 MB) / 889716736 bytes (848 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
