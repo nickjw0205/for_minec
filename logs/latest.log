@@ -1,28 +1,30 @@
-[22:51:13] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:51:13] [Server thread/INFO]: Loading properties
-[22:51:13] [Server thread/INFO]: Default game type: SURVIVAL
-[22:51:13] [Server thread/INFO]: Generating keypair
-[22:51:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:51:13] [Server thread/INFO]: Using default channel type
-[22:51:14] [Server thread/INFO]: Preparing level "world"
-[22:51:15] [Server thread/INFO]: Loaded 488 advancements
-[22:51:15] [Server thread/INFO]: Preparing start region for level 0
-[22:51:17] [Server thread/INFO]: Preparing spawn area: 0%
-[22:51:18] [Server thread/INFO]: Preparing spawn area: 19%
-[22:51:18] [Server thread/WARN]: Keeping entity minecraft:hopper_minecart that already exists with UUID a169aa6a-32e7-4df1-913f-6e28e8857dc8
-[22:51:19] [Server thread/INFO]: Preparing spawn area: 60%
-[22:51:20] [Server thread/INFO]: Done (5.548s)! For help, type "help" or "?"
-[22:51:48] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[22:51:49] [Server thread/INFO]: nomadnick02[/25.13.73.76:50730] logged in with entity id 616 at (-19.0433398600162, 11.0, 210.5461695441505)
-[22:51:49] [Server thread/INFO]: nomadnick02 joined the game
-[23:22:10] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[23:22:10] [Server thread/INFO]: nomadnick02 left the game
-[23:22:14] [Server thread/INFO]: Stopping server
-[23:22:14] [Server thread/INFO]: Saving players
-[23:22:14] [Server thread/INFO]: Saving worlds
-[23:22:14] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[23:22:14] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[23:22:14] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[23:22:14] [Server Shutdown Thread/INFO]: Stopping server
-[23:22:14] [Server Shutdown Thread/INFO]: Saving players
-[23:22:14] [Server Shutdown Thread/INFO]: Saving worlds
+[16:27:32] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:27:32] [Server thread/INFO]: Loading properties
+[16:27:32] [Server thread/INFO]: Default game type: SURVIVAL
+[16:27:32] [Server thread/INFO]: Generating keypair
+[16:27:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:27:32] [Server thread/INFO]: Using default channel type
+[16:27:33] [Server thread/INFO]: Preparing level "world"
+[16:27:34] [Server thread/INFO]: Loaded 488 advancements
+[16:27:34] [Server thread/INFO]: Preparing start region for level 0
+[16:27:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:38] [Server thread/INFO]: Preparing spawn area: 12%
+[16:27:39] [Server thread/WARN]: Keeping entity minecraft:hopper_minecart that already exists with UUID a169aa6a-32e7-4df1-913f-6e28e8857dc8
+[16:27:39] [Server thread/INFO]: Preparing spawn area: 36%
+[16:27:40] [Server thread/INFO]: Preparing spawn area: 49%
+[16:27:41] [Server thread/INFO]: Preparing spawn area: 68%
+[16:27:42] [Server thread/INFO]: Done (9.512s)! For help, type "help" or "?"
+[16:27:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2414ms behind, skipping 48 tick(s)
+[16:29:18] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[16:29:18] [Server thread/INFO]: nomadnick02[/25.13.73.76:51947] logged in with entity id 616 at (-22.148171785997548, 3.0, 196.7177680983386)
+[16:29:18] [Server thread/INFO]: nomadnick02 joined the game
+[16:29:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3320ms behind, skipping 66 tick(s)
+[16:44:52] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[16:44:52] [Server thread/INFO]: nomadnick02 left the game
+[16:45:00] [Server thread/INFO]: Stopping server
+[16:45:00] [Server thread/INFO]: Saving players
+[16:45:00] [Server thread/INFO]: Saving worlds
+[16:45:00] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:45:00] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:45:00] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:45:00] [Server Shutdown Thread/INFO]: Stopping server
