@@ -1,34 +1,43 @@
-[12:40:49] [Server thread/INFO]: Loading properties
-[12:40:49] [Server thread/INFO]: Default game type: SURVIVAL
-[12:40:49] [Server thread/INFO]: Generating keypair
-[12:40:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:40:50] [Server thread/INFO]: Using default channel type
-[12:40:51] [Server thread/INFO]: Preparing level "world"
-[12:40:52] [Server thread/INFO]: Loaded 488 advancements
-[12:40:52] [Server thread/INFO]: Preparing start region for level 0
-[12:40:55] [Server thread/INFO]: Preparing spawn area: 0%
-[12:40:56] [Server thread/INFO]: Preparing spawn area: 10%
-[12:40:57] [Server thread/INFO]: Preparing spawn area: 27%
-[12:40:57] [Server thread/WARN]: Keeping entity minecraft:hopper_minecart that already exists with UUID a169aa6a-32e7-4df1-913f-6e28e8857dc8
-[12:40:58] [Server thread/INFO]: Preparing spawn area: 43%
-[12:40:59] [Server thread/INFO]: Preparing spawn area: 56%
-[12:41:00] [Server thread/INFO]: Preparing spawn area: 72%
-[12:41:01] [Server thread/INFO]: Preparing spawn area: 95%
-[12:41:01] [Server thread/INFO]: Done (10.065s)! For help, type "help" or "?"
-[12:41:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3468ms behind, skipping 69 tick(s)
-[12:41:25] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[12:41:25] [Server thread/INFO]: nomadnick02[/25.13.73.76:49588] logged in with entity id 618 at (-4.407690951740672, 70.0, 250.70388884215657)
-[12:41:25] [Server thread/INFO]: nomadnick02 joined the game
-[12:41:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2661ms behind, skipping 53 tick(s)
-[12:41:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3291ms behind, skipping 65 tick(s)
-[12:41:56] [Server thread/WARN]: nomadnick02 moved too quickly! 0.006622590753238455,-11.542330442261726,0.0
-[12:56:10] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[12:56:10] [Server thread/INFO]: nomadnick02 left the game
-[12:56:12] [Server thread/INFO]: Stopping server
-[12:56:12] [Server thread/INFO]: Saving players
-[12:56:12] [Server thread/INFO]: Saving worlds
-[12:56:12] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[12:56:12] [Server Shutdown Thread/INFO]: Stopping server
-[12:56:12] [Server Shutdown Thread/INFO]: Saving players
-[12:56:12] [Server Shutdown Thread/INFO]: Saving worlds
-[12:56:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[13:59:57] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:59:57] [Server thread/INFO]: Loading properties
+[13:59:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:59:57] [Server thread/INFO]: Generating keypair
+[13:59:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:59:57] [Server thread/INFO]: Using default channel type
+[13:59:58] [Server thread/INFO]: Preparing level "world"
+[13:59:59] [Server thread/INFO]: Loaded 488 advancements
+[13:59:59] [Server thread/INFO]: Preparing start region for level 0
+[14:00:01] [Server thread/INFO]: Preparing spawn area: 0%
+[14:00:02] [Server thread/WARN]: Keeping entity minecraft:hopper_minecart that already exists with UUID a169aa6a-32e7-4df1-913f-6e28e8857dc8
+[14:00:02] [Server thread/INFO]: Preparing spawn area: 51%
+[14:00:03] [Server thread/INFO]: Preparing spawn area: 84%
+[14:00:04] [Server thread/INFO]: Done (5.704s)! For help, type "help" or "?"
+[14:05:44] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[14:05:45] [Server thread/INFO]: nomadnick02[/25.13.73.76:54391] logged in with entity id 619 at (-31.834708717315518, 69.0, 210.73452142366682)
+[14:05:45] [Server thread/INFO]: nomadnick02 joined the game
+[14:05:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
+[14:06:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:06:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[14:06:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:06:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[14:07:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:07:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[14:07:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:07:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[14:07:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:07:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[14:07:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:07:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[14:17:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:17:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[14:17:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[14:17:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[14:18:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[14:18:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[14:20:11] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[14:20:11] [Server thread/INFO]: nomadnick02 left the game
+[14:20:18] [Server thread/INFO]: Stopping server
+[14:20:18] [Server thread/INFO]: Saving players
+[14:20:18] [Server thread/INFO]: Saving worlds
+[14:20:18] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[14:20:19] [Server Shutdown Thread/INFO]: Stopping server
