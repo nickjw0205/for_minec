@@ -1,57 +1,35 @@
-[19:23:09] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[19:23:09] [Server thread/INFO]: Loading properties
-[19:23:09] [Server thread/INFO]: Default game type: SURVIVAL
-[19:23:09] [Server thread/INFO]: Generating keypair
-[19:23:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:23:10] [Server thread/INFO]: Using default channel type
-[19:23:10] [Server thread/INFO]: Preparing level "world"
-[19:23:11] [Server thread/INFO]: Loaded 488 advancements
-[19:23:11] [Server thread/INFO]: Preparing start region for level 0
-[19:23:13] [Server thread/INFO]: Preparing spawn area: 0%
-[19:23:14] [Server thread/INFO]: Preparing spawn area: 15%
-[19:23:15] [Server thread/INFO]: Preparing spawn area: 60%
-[19:23:16] [Server thread/INFO]: Preparing spawn area: 80%
-[19:23:17] [Server thread/INFO]: Done (6.544s)! For help, type "help" or "?"
-[19:23:30] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[19:23:31] [Server thread/INFO]: nomadnick02[/25.13.73.76:54063] logged in with entity id 553 at (198.7799731922984, 50.0, 1.1492552610733684)
-[19:23:31] [Server thread/INFO]: nomadnick02 joined the game
-[19:23:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3215ms behind, skipping 64 tick(s)
-[19:23:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2533ms behind, skipping 50 tick(s)
-[19:24:26] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:24:26] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[19:46:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2272ms behind, skipping 45 tick(s)
-[19:51:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[19:51:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[19:51:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[19:51:31] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[19:51:31] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[19:51:31] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[19:52:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[19:52:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[19:52:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[19:52:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[19:52:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[19:52:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[19:55:58] [Server thread/WARN]: nomadnick02 moved too quickly! 0.0,-13.6070612290785,0.0
-[20:05:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2569ms behind, skipping 51 tick(s)
-[20:07:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2762ms behind, skipping 55 tick(s)
-[20:08:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2022ms behind, skipping 40 tick(s)
-[20:08:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2144ms behind, skipping 42 tick(s)
-[20:08:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2077ms behind, skipping 41 tick(s)
-[20:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2493ms behind, skipping 49 tick(s)
-[20:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3014ms behind, skipping 60 tick(s)
-[20:09:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2044ms behind, skipping 40 tick(s)
-[20:09:41] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[20:09:41] [Server thread/INFO]: nomadnick02 left the game
-[20:09:44] [Server thread/INFO]: Stopping server
-[20:09:44] [Server thread/INFO]: Saving players
-[20:09:44] [Server thread/INFO]: Saving worlds
-[20:09:44] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[20:09:45] [Server Shutdown Thread/INFO]: Stopping server
-[20:09:45] [Server Shutdown Thread/INFO]: Saving players
-[20:09:45] [Server Shutdown Thread/INFO]: Saving worlds
-[20:09:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[20:09:45] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[20:09:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[20:09:45] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[20:09:45] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[10:29:39] [Server thread/INFO]: Loading properties
+[10:29:39] [Server thread/INFO]: Default game type: SURVIVAL
+[10:29:39] [Server thread/INFO]: Generating keypair
+[10:29:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:29:39] [Server thread/INFO]: Using default channel type
+[10:29:40] [Server thread/INFO]: Preparing level "world"
+[10:29:40] [Server thread/INFO]: Loaded 488 advancements
+[10:29:40] [Server thread/INFO]: Preparing start region for level 0
+[10:29:42] [Server thread/INFO]: Preparing spawn area: 0%
+[10:29:43] [Server thread/INFO]: Preparing spawn area: 20%
+[10:29:44] [Server thread/INFO]: Preparing spawn area: 37%
+[10:29:45] [Server thread/INFO]: Preparing spawn area: 52%
+[10:29:46] [Server thread/INFO]: Preparing spawn area: 63%
+[10:29:47] [Server thread/INFO]: Preparing spawn area: 84%
+[10:29:48] [Server thread/INFO]: Done (8.318s)! For help, type "help" or "?"
+[10:29:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2502ms behind, skipping 50 tick(s)
+[10:30:32] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[10:30:32] [Server thread/INFO]: nomadnick02[/25.13.73.76:52230] logged in with entity id 553 at (198.10739254340058, 49.0, 2.2375000119209276)
+[10:30:32] [Server thread/INFO]: nomadnick02 joined the game
+[10:30:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2392ms behind, skipping 47 tick(s)
+[10:30:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[10:34:22] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[10:34:22] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[10:34:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3106ms behind, skipping 62 tick(s)
+[10:41:48] [Server thread/WARN]: nomadnick02 moved too quickly! -35.1335407595309,-57.0,-206.94813779939295
+[10:41:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2524ms behind, skipping 50 tick(s)
+[10:48:37] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[10:48:37] [Server thread/INFO]: nomadnick02 left the game
+[10:48:42] [Server thread/INFO]: Stopping server
+[10:48:42] [Server thread/INFO]: Saving players
+[10:48:42] [Server thread/INFO]: Saving worlds
+[10:48:42] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[10:48:42] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[10:48:42] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[10:48:42] [Server Shutdown Thread/INFO]: Stopping server
