@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "00b01f26-461c-49e4-9daf-34fff39bb5fc",
+    "name": "nomadnick02",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

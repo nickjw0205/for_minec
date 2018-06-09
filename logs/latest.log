@@ -1,15 +1,61 @@
-[00:00:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[00:00:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[00:00:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[00:00:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[00:00:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[00:00:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[00:00:34] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[00:00:34] [Server thread/INFO]: nomadnick02 left the game
-[00:00:37] [Server thread/INFO]: Stopping server
-[00:00:37] [Server thread/INFO]: Saving players
-[00:00:37] [Server thread/INFO]: Saving worlds
-[00:00:37] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[00:00:37] [Server Shutdown Thread/INFO]: Stopping server
-[00:00:37] [Server Shutdown Thread/INFO]: Saving players
-[00:00:37] [Server Shutdown Thread/INFO]: Saving worlds
+[14:50:28] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:50:28] [Server thread/INFO]: Loading properties
+[14:50:28] [Server thread/INFO]: Default game type: SURVIVAL
+[14:50:28] [Server thread/INFO]: Generating keypair
+[14:50:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:50:29] [Server thread/INFO]: Using default channel type
+[14:50:29] [Server thread/INFO]: Preparing level "world"
+[14:50:30] [Server thread/INFO]: Loaded 488 advancements
+[14:50:30] [Server thread/INFO]: Preparing start region for level 0
+[14:50:33] [Server thread/INFO]: Preparing spawn area: 0%
+[14:50:34] [Server thread/INFO]: Preparing spawn area: 16%
+[14:50:35] [Server thread/INFO]: Preparing spawn area: 39%
+[14:50:36] [Server thread/INFO]: Preparing spawn area: 61%
+[14:50:37] [Server thread/INFO]: Done (7.487s)! For help, type "help" or "?"
+[14:50:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2443ms behind, skipping 48 tick(s)
+[14:50:48] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[14:50:48] [Server thread/INFO]: nomadnick02[/25.13.73.76:55244] logged in with entity id 872 at (-43.9846188161402, 74.0, 192.78300422760867)
+[14:50:48] [Server thread/INFO]: nomadnick02 joined the game
+[14:50:55] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[14:51:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8042ms behind, skipping 160 tick(s)
+[14:51:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[14:52:01] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[15:14:35] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[15:15:02] [Server thread/INFO]: Set game difficulty to Peaceful
+[15:15:18] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[15:27:23] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[15:27:23] [Server thread/INFO]: nomadnick02 left the game
+[15:33:40] [User Authenticator #2/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[15:33:40] [Server thread/INFO]: nomadnick02[/25.13.73.76:55472] logged in with entity id 409358 at (12.919331889556446, 55.0, 197.51070969363172)
+[15:33:40] [Server thread/INFO]: nomadnick02 joined the game
+[15:38:44] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[15:39:20] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[15:40:40] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 255 to nomadnick02 for 1 seconds]
+[15:40:47] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 255 to nomadnick02 for 10000 seconds]
+[15:42:33] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[15:43:16] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[15:54:45] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[15:54:45] [Server thread/INFO]: nomadnick02 left the game
+[15:57:18] [User Authenticator #3/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[15:57:18] [Server thread/INFO]: nomadnick02[/25.13.73.76:55564] logged in with entity id 984245 at (52.7926774600604, 49.0, 208.9617585886561)
+[15:57:18] [Server thread/INFO]: nomadnick02 joined the game
+[16:00:58] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[16:00:58] [Server thread/INFO]: nomadnick02 left the game
+[16:02:53] [User Authenticator #4/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[16:02:53] [Server thread/INFO]: nomadnick02[/25.13.73.76:55593] logged in with entity id 1085551 at (41.91377708801419, 49.0, 198.84833559287082)
+[16:02:53] [Server thread/INFO]: nomadnick02 joined the game
+[16:03:19] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[16:06:38] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[16:06:38] [Server thread/INFO]: nomadnick02 left the game
+[16:06:39] [Server thread/INFO]: Stopping server
+[16:06:39] [Server thread/INFO]: Saving players
+[16:06:39] [Server thread/INFO]: Saving worlds
+[16:06:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:06:39] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:06:39] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:06:39] [Server Shutdown Thread/INFO]: Stopping server
+[16:06:39] [Server Shutdown Thread/INFO]: Saving players
+[16:06:39] [Server Shutdown Thread/INFO]: Saving worlds
+[16:06:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[16:06:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:06:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
