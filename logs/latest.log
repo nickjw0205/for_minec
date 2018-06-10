@@ -1,111 +1,23 @@
-[12:04:25] [Server thread/INFO]: Loading properties
-[12:04:25] [Server thread/INFO]: Default game type: SURVIVAL
-[12:04:25] [Server thread/INFO]: Generating keypair
-[12:04:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:04:25] [Server thread/INFO]: Using default channel type
-[12:04:26] [Server thread/INFO]: Preparing level "world"
-[12:04:26] [Server thread/INFO]: Loaded 488 advancements
-[12:04:26] [Server thread/INFO]: Preparing start region for level 0
-[12:04:28] [Server thread/INFO]: Preparing spawn area: 0%
-[12:04:29] [Server thread/INFO]: Preparing spawn area: 20%
-[12:04:30] [Server thread/INFO]: Preparing spawn area: 44%
-[12:04:31] [Server thread/INFO]: Preparing spawn area: 66%
-[12:04:32] [Server thread/INFO]: Done (6.019s)! For help, type "help" or "?"
-[12:04:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
-[12:08:26] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[12:08:26] [Server thread/INFO]: nomadnick02[/25.13.73.76:49533] logged in with entity id 908 at (-33.47851758723678, 69.0, 208.71948655527592)
-[12:08:27] [Server thread/INFO]: nomadnick02 joined the game
-[12:08:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3379ms behind, skipping 67 tick(s)
-[12:09:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11878ms behind, skipping 237 tick(s)
-[12:09:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4694ms behind, skipping 93 tick(s)
-[12:12:02] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
-[12:12:15] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[12:16:25] [Server thread/INFO]: [nomadnick02: 95 blocks filled]
-[12:16:58] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
-[12:17:43] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
-[12:19:16] [Server thread/WARN]: Fetching addPacket for removed entity
-[12:20:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
-[12:23:40] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
-[12:24:12] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
-[12:26:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
-[12:26:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:26:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[12:26:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:26:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[12:26:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[12:26:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:26:52] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[12:26:52] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[12:26:52] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:27:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:27:16] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:27:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:27:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[12:27:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
-[12:27:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:27:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[12:27:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
-[12:28:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
-[12:28:22] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[12:28:22] [Server thread/INFO]: nomadnick02 left the game
-[12:29:22] [User Authenticator #2/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[12:29:22] [Server thread/INFO]: nomadnick02[/25.13.73.76:49854] logged in with entity id 47958 at (-676.0, 69.0, -2500.0)
-[12:29:22] [Server thread/INFO]: nomadnick02 joined the game
-[12:29:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5077ms behind, skipping 101 tick(s)
-[12:29:34] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[12:30:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 40432ms behind, skipping 808 tick(s)
-[12:30:29] [Server thread/WARN]: nomadnick02 moved too quickly! -8.746888092565996,0.0,-5.271742015733253
-[12:30:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5024ms behind, skipping 100 tick(s)
-[12:30:38] [Server thread/WARN]: nomadnick02 moved too quickly! -8.422481294683735,0.0,-6.005776073945526
-[12:30:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2231ms behind, skipping 44 tick(s)
-[12:31:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4166ms behind, skipping 83 tick(s)
-[12:31:40] [Server thread/WARN]: nomadnick02 moved too quickly! 10.82391945322604,0.0,-1.1162092994122759
-[12:31:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3426ms behind, skipping 68 tick(s)
-[12:32:36] [Server thread/INFO]: [nomadnick02: Teleported nomadnick02 to -29.5, 70.0, 212.5]
-[12:32:51] [Server thread/WARN]: nomadnick02 moved too quickly! -34.24897318705917,-57.0,-206.5986448955058
-[12:32:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6980ms behind, skipping 139 tick(s)
-[12:33:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7100ms behind, skipping 142 tick(s)
-[12:33:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2135ms behind, skipping 42 tick(s)
-[12:33:38] [Server thread/WARN]: nomadnick02 moved too quickly! -118.9042465620971,54.0,-2002.2148416660411
-[12:55:32] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
-[13:02:26] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
-[13:03:15] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[13:04:06] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[13:04:10] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
-[13:04:47] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[13:05:55] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
-[13:06:00] [Server thread/INFO]: [nomadnick02: Set game difficulty to Peaceful]
-[13:14:24] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[13:14:24] [Server thread/INFO]: nomadnick02 left the game
-[13:35:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1196563ms behind, skipping 23931 tick(s)
-[13:42:06] [User Authenticator #3/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[13:42:06] [Server thread/INFO]: nomadnick02[/25.13.73.76:50076] logged in with entity id 261388 at (-237.73373136879542, 40.0, -2312.3689635197134)
-[13:42:06] [Server thread/INFO]: nomadnick02 joined the game
-[13:42:47] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[13:43:44] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
-[13:45:54] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[13:45:54] [Server thread/INFO]: nomadnick02 left the game
-[13:46:30] [User Authenticator #4/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[13:46:30] [Server thread/INFO]: nomadnick02[/25.13.73.76:50093] logged in with entity id 345074 at (-213.45254988381436, 40.0, -2312.9274691212763)
-[13:46:30] [Server thread/INFO]: nomadnick02 joined the game
-[14:10:27] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[14:10:27] [Server thread/INFO]: nomadnick02 left the game
-[14:10:32] [Server thread/INFO]: Stopping server
-[14:10:32] [Server thread/INFO]: Saving players
-[14:10:32] [Server thread/INFO]: Saving worlds
-[14:10:32] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[14:10:32] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[14:10:32] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[14:10:32] [Server Shutdown Thread/INFO]: Stopping server
-[14:10:32] [Server Shutdown Thread/INFO]: Saving players
-[14:10:32] [Server Shutdown Thread/INFO]: Saving worlds
-[14:10:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[14:10:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[14:10:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[01:11:46] [Server thread/INFO]: Loading properties
+[01:11:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:11:46] [Server thread/INFO]: Generating keypair
+[01:11:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:11:47] [Server thread/INFO]: Using default channel type
+[01:11:47] [Server thread/INFO]: Preparing level "world"
+[01:11:49] [Server thread/INFO]: Loaded 488 advancements
+[01:11:49] [Server thread/INFO]: Preparing start region for level 0
+[01:11:52] [Server thread/INFO]: Preparing spawn area: 0%
+[01:11:53] [Server thread/INFO]: Preparing spawn area: 5%
+[01:11:54] [Server thread/INFO]: Preparing spawn area: 29%
+[01:11:55] [Server thread/INFO]: Preparing spawn area: 42%
+[01:11:56] [Server thread/INFO]: Preparing spawn area: 55%
+[01:11:57] [Server thread/INFO]: Preparing spawn area: 72%
+[01:11:58] [Server thread/INFO]: Done (10.186s)! For help, type "help" or "?"
+[01:12:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4404ms behind, skipping 88 tick(s)
+[01:12:19] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[01:12:19] [Server thread/INFO]: nomadnick02[/25.13.73.76:52433] logged in with entity id 857 at (-32.03870119935814, 69.0, 195.37841091942357)
+[01:12:19] [Server thread/INFO]: nomadnick02 joined the game
+[01:12:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10523ms behind, skipping 210 tick(s)
+[01:12:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7988ms behind, skipping 159 tick(s)
+[01:13:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4064ms behind, skipping 81 tick(s)
+[01:13:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2436ms behind, skipping 48 tick(s)
