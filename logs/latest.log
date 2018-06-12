@@ -1,107 +1,192 @@
-[01:11:46] [Server thread/INFO]: Loading properties
-[01:11:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:11:46] [Server thread/INFO]: Generating keypair
-[01:11:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:11:47] [Server thread/INFO]: Using default channel type
-[01:11:47] [Server thread/INFO]: Preparing level "world"
-[01:11:49] [Server thread/INFO]: Loaded 488 advancements
-[01:11:49] [Server thread/INFO]: Preparing start region for level 0
-[01:11:52] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:53] [Server thread/INFO]: Preparing spawn area: 5%
-[01:11:54] [Server thread/INFO]: Preparing spawn area: 29%
-[01:11:55] [Server thread/INFO]: Preparing spawn area: 42%
-[01:11:56] [Server thread/INFO]: Preparing spawn area: 55%
-[01:11:57] [Server thread/INFO]: Preparing spawn area: 72%
-[01:11:58] [Server thread/INFO]: Done (10.186s)! For help, type "help" or "?"
-[01:12:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4404ms behind, skipping 88 tick(s)
-[01:12:19] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[01:12:19] [Server thread/INFO]: nomadnick02[/25.13.73.76:52433] logged in with entity id 857 at (-32.03870119935814, 69.0, 195.37841091942357)
-[01:12:19] [Server thread/INFO]: nomadnick02 joined the game
-[01:12:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10523ms behind, skipping 210 tick(s)
-[01:12:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7988ms behind, skipping 159 tick(s)
-[01:13:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4064ms behind, skipping 81 tick(s)
-[01:13:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2436ms behind, skipping 48 tick(s)
-[01:14:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2538ms behind, skipping 50 tick(s)
-[01:15:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4151ms behind, skipping 83 tick(s)
-[01:15:18] [Server thread/WARN]: nomadnick02 moved too quickly! -35.01417037031581,-57.0,-208.38542011479916
-[01:15:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19479ms behind, skipping 389 tick(s)
-[01:15:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2535ms behind, skipping 50 tick(s)
-[01:16:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2079ms behind, skipping 41 tick(s)
-[01:16:30] [Server thread/WARN]: nomadnick02 moved too quickly! -117.82721590176811,54.0,-2001.7554744526133
-[01:16:42] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[01:24:40] [Server thread/INFO]: <nomadnick02> -234 70 -2343
-[01:25:44] [Server thread/INFO]: [nomadnick02: 98 blocks filled]
-[01:26:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2199ms behind, skipping 43 tick(s)
-[01:26:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3493ms behind, skipping 69 tick(s)
-[01:28:38] [Server thread/INFO]: [nomadnick02: 98 blocks filled]
-[01:28:49] [Server thread/INFO]: [nomadnick02: 194 blocks filled]
-[01:29:38] [Server thread/INFO]: [nomadnick02: 194 blocks filled]
-[01:30:04] [Server thread/INFO]: <nomadnick02> -137 69 -2341
-[01:30:45] [Server thread/INFO]: [nomadnick02: 91 blocks filled]
-[01:31:00] [Server thread/INFO]: [nomadnick02: 94 blocks filled]
-[01:31:15] [Server thread/INFO]: [nomadnick02: 96 blocks filled]
-[01:31:21] [Server thread/INFO]: [nomadnick02: 192 blocks filled]
-[01:31:25] [Server thread/INFO]: [nomadnick02: 96 blocks filled]
-[01:32:08] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[01:32:08] [Server thread/INFO]: nomadnick02 left the game
-[01:32:14] [User Authenticator #2/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[01:32:14] [Server thread/INFO]: nomadnick02[/25.13.73.76:52689] logged in with entity id 20001 at (-134.61701530658905, 70.0, -2344.463645436243)
-[01:32:14] [Server thread/INFO]: nomadnick02 joined the game
-[01:32:22] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[01:32:30] [Server thread/INFO]: <nomadnick02> -135 69 -2345
-[01:32:39] [Server thread/INFO]: Disconnecting /25.13.73.76:52687: Took too long to log in
-[01:32:39] [Server thread/INFO]: /25.13.73.76:52687 lost connection: Took too long to log in
-[01:32:49] [Server thread/INFO]: <nomadnick02> -139 69 -2341
-[01:33:25] [Server thread/INFO]: [nomadnick02: 150 blocks filled]
-[01:34:18] [Server thread/INFO]: <nomadnick02> -135 -2294
-[01:34:52] [Server thread/INFO]: [nomadnick02: 150 blocks filled]
-[01:35:29] [Server thread/INFO]: <nomadnick02> -231 -2341
-[01:35:54] [Server thread/INFO]: [nomadnick02: 120 blocks filled]
-[01:40:17] [Server thread/INFO]: [nomadnick02: 25 blocks filled]
-[01:40:50] [Server thread/INFO]: [nomadnick02: 91 blocks filled]
-[01:41:27] [Server thread/INFO]: [nomadnick02: 51 blocks filled]
-[01:41:39] [Server thread/INFO]: [nomadnick02: 51 blocks filled]
-[01:42:39] [Server thread/INFO]: [nomadnick02: 51 blocks filled]
-[01:42:51] [Server thread/INFO]: [nomadnick02: 51 blocks filled]
-[01:43:15] [Server thread/INFO]: [nomadnick02: 91 blocks filled]
-[01:43:42] [Server thread/INFO]: [nomadnick02: 91 blocks filled]
-[01:51:54] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[01:51:54] [Server thread/INFO]: nomadnick02 left the game
-[01:52:10] [User Authenticator #3/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[01:52:10] [Server thread/INFO]: nomadnick02[/25.13.73.76:52777] logged in with entity id 32024 at (-240.00344765991235, 36.24162755487176, -2309.806267830345)
-[01:52:10] [Server thread/INFO]: nomadnick02 joined the game
-[01:52:13] [Server thread/WARN]: nomadnick02 moved too quickly! 0.0,-10.49079610902799,0.0
-[01:52:18] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[01:52:37] [Server thread/INFO]: <nomadnick02> -243 38 -2308
-[01:52:49] [Server thread/INFO]: <nomadnick02> -243 5 -2321
-[01:52:59] [Server thread/INFO]: <nomadnick02> prismarine
-[01:53:27] [Server thread/INFO]: [nomadnick02: 476 blocks filled]
-[01:53:45] [Server thread/INFO]: <nomadnick02> -242 38 -2307
-[01:53:58] [Server thread/INFO]: <nomadnick02> -223 5 -2307
-[01:54:20] [Server thread/INFO]: [nomadnick02: 680 blocks filled]
-[01:54:40] [Server thread/INFO]: <nomadnick02> -222 5 -2308
-[01:54:52] [Server thread/INFO]: <nomadnick02> -2321
-[01:55:12] [Server thread/INFO]: [nomadnick02: 34 blocks filled]
-[01:55:33] [Server thread/INFO]: [nomadnick02: 442 blocks filled]
-[01:55:42] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[01:55:42] [Server thread/INFO]: nomadnick02 left the game
-[01:55:44] [User Authenticator #4/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[01:55:44] [Server thread/INFO]: nomadnick02[/25.13.73.76:52792] logged in with entity id 33504 at (-222.83339339171522, 12.356380988720346, -2319.1017722395927)
-[01:55:44] [Server thread/INFO]: nomadnick02 joined the game
-[01:55:50] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
-[01:56:03] [Server thread/INFO]: <nomadnick02> -223 11 -2322
-[01:56:25] [Server thread/INFO]: [nomadnick02: 560 blocks filled]
-[02:09:31] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[02:09:31] [Server thread/INFO]: nomadnick02 left the game
-[02:09:40] [Server thread/INFO]: Stopping server
-[02:09:40] [Server thread/INFO]: Saving players
-[02:09:40] [Server thread/INFO]: Saving worlds
-[02:09:40] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[02:09:40] [Server Shutdown Thread/INFO]: Stopping server
-[02:09:40] [Server Shutdown Thread/INFO]: Saving players
-[02:09:40] [Server Shutdown Thread/INFO]: Saving worlds
-[02:09:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[02:09:40] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[02:09:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[02:09:40] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[02:09:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[21:11:39] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:11:39] [Server thread/INFO]: Loading properties
+[21:11:39] [Server thread/INFO]: Default game type: SURVIVAL
+[21:11:39] [Server thread/INFO]: Generating keypair
+[21:11:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:11:39] [Server thread/INFO]: Using default channel type
+[21:11:40] [Server thread/INFO]: Preparing level "world"
+[21:11:41] [Server thread/INFO]: Loaded 488 advancements
+[21:11:41] [Server thread/INFO]: Preparing start region for level 0
+[21:11:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:11:44] [Server thread/INFO]: Preparing spawn area: 7%
+[21:11:45] [Server thread/INFO]: Preparing spawn area: 21%
+[21:11:46] [Server thread/INFO]: Preparing spawn area: 40%
+[21:11:47] [Server thread/INFO]: Preparing spawn area: 52%
+[21:11:48] [Server thread/INFO]: Preparing spawn area: 64%
+[21:11:49] [Server thread/INFO]: Preparing spawn area: 90%
+[21:11:50] [Server thread/INFO]: Done (9.953s)! For help, type "help" or "?"
+[21:11:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2852ms behind, skipping 57 tick(s)
+[21:12:00] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:12:00] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:12:32] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[21:12:32] [Server thread/INFO]: nomadnick02[/25.13.73.76:49956] logged in with entity id 932 at (-90.69999998807907, 51.0, 207.94355788958148)
+[21:12:32] [Server thread/INFO]: nomadnick02 joined the game
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:12:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:12:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3972ms behind, skipping 79 tick(s)
+[21:12:41] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:13:03] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:13:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13474ms behind, skipping 269 tick(s)
+[21:13:56] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:13:56] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:13:56] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:13:56] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:13:56] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:15:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:15:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:15:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:15:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:15:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:16:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:16:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:16:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:16:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:16:35] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:16:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:16:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:16:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:17:09] [Server thread/INFO]: [nomadnick02: Given [Torch] * 1 to nomadnick02]
+[21:17:17] [Server thread/INFO]: [nomadnick02: Given [Torch] * 62 to nomadnick02]
+[21:17:39] [Server thread/INFO]: [nomadnick02: Given [Milk] * 1 to nomadnick02]
+[21:18:32] [Server thread/INFO]: [nomadnick02: Given Haste (ID 3) * 3 to nomadnick02 for 10000 seconds]
+[21:18:38] [Server thread/INFO]: [nomadnick02: Given Haste (ID 3) * 10 to nomadnick02 for 10000 seconds]
+[21:18:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:18:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:18:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:18:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:18:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:19:43] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:19:43] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:19:43] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:19:43] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:19:43] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:19:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:19:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:19:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:19:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:19:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:21:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:21:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:21:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:21:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:21:46] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:23:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:23:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:23:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:23:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:23:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:23:48] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:23:48] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:23:48] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:24:47] [Server thread/WARN]: Fetching addPacket for removed entity
+[21:27:25] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:27:34] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:27:34] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:27:34] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:27:34] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:27:34] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:27:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:27:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:27:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:27:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:27:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:28:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:28:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:28:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:28:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:28:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:28:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:28:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:28:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:28:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:28:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:28:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:28:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:28:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:29:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:29:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:29:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:29:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:29:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:29:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:29:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:29:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:29:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:29:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:29:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:29:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:29:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:29:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:29:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:30:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:30:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:30:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:31:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:31:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:31:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:31:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:31:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:31:26] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:31:26] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:31:26] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:31:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:32:08] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:32:44] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:34:04] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[21:35:06] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:35:09] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:35:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:35:20] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:36:31] [Server thread/INFO]: [nomadnick02: 7504 blocks filled]
+[21:43:36] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[21:43:49] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:44:04] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:49:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:49:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[21:49:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:49:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[21:49:36] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[21:49:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[21:49:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[21:49:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:51:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:51:47] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:55:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:56:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:56:28] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 45abd818-d34c-4ba5-ba72-e372aba53ffa
+[21:57:59] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[21:57:59] [Server thread/INFO]: nomadnick02 left the game
+[21:58:02] [Server thread/INFO]: Stopping server
+[21:58:02] [Server thread/INFO]: Saving players
+[21:58:02] [Server thread/INFO]: Saving worlds
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:58:02] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:58:02] [Server Shutdown Thread/INFO]: Stopping server
+[21:58:02] [Server Shutdown Thread/INFO]: Saving players
+[21:58:02] [Server Shutdown Thread/INFO]: Saving worlds
+[21:58:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[21:58:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:58:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
