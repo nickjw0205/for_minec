@@ -110,3 +110,14 @@
 [20:59:27] [Server thread/INFO]: [nomadnick02: 840 blocks filled]
 [21:00:52] [Server thread/INFO]: [nomadnick02: 1928 blocks filled]
 [21:03:29] [Server thread/INFO]: [nomadnick02: 1848 blocks filled]
+[21:05:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2159ms behind, skipping 43 tick(s)
+[21:05:41] [Server thread/INFO]: [nomadnick02: 8 blocks filled]
+[21:06:32] [Server thread/INFO]: [nomadnick02: 1792 blocks filled]
+[21:06:54] [Server thread/INFO]: [nomadnick02: 1848 blocks filled]
+[21:25:36] [Server thread/INFO]: [nomadnick02: Set the time to 0]
+[21:30:30] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[23:16:10] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[23:16:14] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[23:44:17] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
+[23:50:31] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[23:50:31] [Server thread/INFO]: nomadnick02 left the game
