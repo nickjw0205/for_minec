@@ -121,3 +121,15 @@
 [23:44:17] [Server thread/INFO]: [nomadnick02: Given Night Vision (ID 16) * 1 to nomadnick02 for 10000 seconds]
 [23:50:31] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
 [23:50:31] [Server thread/INFO]: nomadnick02 left the game
+[23:50:55] [Server thread/INFO]: Stopping server
+[23:50:55] [Server thread/INFO]: Saving players
+[23:50:55] [Server thread/INFO]: Saving worlds
+[23:50:55] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:50:55] [Server Shutdown Thread/INFO]: Stopping server
+[23:50:55] [Server Shutdown Thread/INFO]: Saving players
+[23:50:55] [Server Shutdown Thread/INFO]: Saving worlds
+[23:50:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[23:50:55] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[23:50:55] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[23:50:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[23:50:55] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
