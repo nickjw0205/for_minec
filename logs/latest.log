@@ -251,3 +251,15 @@
 [17:08:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2220ms behind, skipping 44 tick(s)
 [17:08:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
 [17:08:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[17:30:23] [Server thread/INFO]: Stopping server
+[17:30:23] [Server thread/INFO]: Saving players
+[17:30:23] [Server thread/INFO]: Saving worlds
+[17:30:23] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[17:30:23] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:30:23] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[17:30:23] [Server Shutdown Thread/INFO]: Stopping server
+[17:30:23] [Server Shutdown Thread/INFO]: Saving players
+[17:30:23] [Server Shutdown Thread/INFO]: Saving worlds
+[17:30:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[17:30:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:30:23] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
