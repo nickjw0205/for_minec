@@ -1,15 +1,5 @@
-[00:01:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2819ms behind, skipping 56 tick(s)
-[00:02:02] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[00:02:02] [Server thread/INFO]: nomadnick02 left the game
-[00:02:22] [Server thread/INFO]: Stopping server
-[00:02:22] [Server thread/INFO]: Saving players
-[00:02:22] [Server thread/INFO]: Saving worlds
-[00:02:22] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[00:02:22] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[00:02:22] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[00:02:22] [Server Shutdown Thread/INFO]: Stopping server
-[00:02:22] [Server Shutdown Thread/INFO]: Saving players
-[00:02:22] [Server Shutdown Thread/INFO]: Saving worlds
-[00:02:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[00:02:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[00:02:22] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[15:20:27] [AWT-EventQueue-0/INFO]: [STDOUT]: [info] loading player locations
+[15:20:27] [Thread-6/INFO]: [STDOUT]: [info] using player from level.dat
+[15:20:27] [AWT-EventQueue-0/INFO]: [STDOUT]: [info] increasing fragment cache size from 0 to 1024
+[15:20:27] [AWT-EventQueue-0/INFO]: [STDOUT]: [info] fragment cache size increased to 1024
+[15:20:58] [AWT-EventQueue-0/INFO]: [STDOUT]: [info] saving player locations
