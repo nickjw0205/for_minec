@@ -1,24 +1,109 @@
-[16:18:25] [Server thread/INFO]: Loading properties
-[16:18:25] [Server thread/INFO]: Default game type: SURVIVAL
-[16:18:25] [Server thread/INFO]: Generating keypair
-[16:18:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:18:25] [Server thread/INFO]: Using default channel type
-[16:18:26] [Server thread/INFO]: Preparing level "world"
-[16:18:27] [Server thread/INFO]: Loaded 488 advancements
-[16:18:27] [Server thread/INFO]: Preparing start region for level 0
-[16:18:29] [Server thread/INFO]: Preparing spawn area: 0%
-[16:18:30] [Server thread/INFO]: Preparing spawn area: 21%
-[16:18:31] [Server thread/INFO]: Preparing spawn area: 41%
-[16:18:32] [Server thread/INFO]: Preparing spawn area: 60%
-[16:18:33] [Server thread/INFO]: Preparing spawn area: 75%
-[16:18:34] [Server thread/INFO]: Preparing spawn area: 89%
-[16:18:35] [Server thread/INFO]: Done (9.167s)! For help, type "help" or "?"
-[16:18:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2287ms behind, skipping 45 tick(s)
-[16:19:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3227ms behind, skipping 64 tick(s)
-[16:19:52] [User Authenticator #1/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
-[16:19:53] [Server thread/INFO]: nomadnick02[/25.13.73.76:52991] logged in with entity id 933 at (-40.312982170202304, 55.0, 331.5667064754254)
-[16:19:53] [Server thread/INFO]: nomadnick02 joined the game
-[16:19:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4656ms behind, skipping 93 tick(s)
-[16:20:23] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
-[16:20:23] [Server thread/INFO]: nomadnick02 left the game
-[16:20:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6086ms behind, skipping 121 tick(s)
+[16:42:19] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:42:19] [Server thread/INFO]: Loading properties
+[16:42:19] [Server thread/INFO]: Default game type: SURVIVAL
+[16:42:19] [Server thread/INFO]: Generating keypair
+[16:42:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:42:19] [Server thread/INFO]: Using default channel type
+[16:42:20] [Server thread/INFO]: Preparing level "world"
+[16:42:20] [Server thread/INFO]: Loaded 488 advancements
+[16:42:20] [Server thread/INFO]: Preparing start region for level 0
+[16:42:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:42:23] [Server thread/INFO]: Preparing spawn area: 34%
+[16:42:24] [Server thread/INFO]: Preparing spawn area: 70%
+[16:42:25] [Server thread/INFO]: Done (5.132s)! For help, type "help" or "?"
+[16:42:52] [User Authenticator #1/INFO]: UUID of player mhr_skr is 6a2ffe89-811a-4a0c-8940-1df4cf8d8bbb
+[16:42:53] [Server thread/INFO]: mhr_skr[/25.13.177.57:7340] logged in with entity id 920 at (58.03658685562049, 102.0, 64.5085412754962)
+[16:42:53] [Server thread/INFO]: mhr_skr joined the game
+[16:42:53] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6d9180c0-3c85-4de7-9f11-d6819ef58613
+[16:42:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3133ms behind, skipping 62 tick(s)
+[16:43:08] [Server thread/INFO]: <mhr_skr> ㄲㄲ
+[16:43:31] [Server thread/INFO]: You whisper to mhr_skr: ㅎㅇ
+[16:43:44] [Server thread/INFO]: <mhr_skr> 서버가 속삭인다니 ㅋㅋㅋㅋ 무섭다
+[16:44:03] [Server thread/INFO]: You whisper to mhr_skr: ㄲㄲ
+[16:45:14] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2966a559-b7fc-4d30-9e94-e9ba6a662f99
+[16:48:30] [User Authenticator #2/INFO]: UUID of player nomadnick02 is 00b01f26-461c-49e4-9daf-34fff39bb5fc
+[16:48:30] [Server thread/INFO]: nomadnick02[/25.13.73.76:53139] logged in with entity id 14454 at (-32.3240100700427, 66.0, 316.62673553020556)
+[16:48:30] [Server thread/INFO]: nomadnick02 joined the game
+[16:48:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3244ms behind, skipping 64 tick(s)
+[16:48:36] [Server thread/INFO]: <nomadnick02> ㅎㅇ
+[16:48:40] [Server thread/INFO]: <mhr_skr> gd
+[16:49:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 32559ms behind, skipping 651 tick(s)
+[16:49:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2662ms behind, skipping 53 tick(s)
+[16:49:54] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6d9180c0-3c85-4de7-9f11-d6819ef58613
+[16:50:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14622ms behind, skipping 292 tick(s)
+[16:50:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4341ms behind, skipping 86 tick(s)
+[16:50:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6596ms behind, skipping 131 tick(s)
+[16:50:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3583ms behind, skipping 71 tick(s)
+[16:51:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6821ms behind, skipping 136 tick(s)
+[16:51:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4632ms behind, skipping 92 tick(s)
+[16:51:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4202ms behind, skipping 84 tick(s)
+[16:52:00] [Server thread/INFO]: [nomadnick02: Set own game mode to Creative Mode]
+[16:52:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6913ms behind, skipping 138 tick(s)
+[16:52:12] [Server thread/INFO]: [nomadnick02: Set own game mode to Survival Mode]
+[16:52:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2913ms behind, skipping 58 tick(s)
+[16:52:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4196ms behind, skipping 83 tick(s)
+[16:52:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4634ms behind, skipping 92 tick(s)
+[16:53:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5005ms behind, skipping 100 tick(s)
+[16:53:15] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2966a559-b7fc-4d30-9e94-e9ba6a662f99
+[16:53:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2474ms behind, skipping 49 tick(s)
+[16:53:37] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:53:37] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID aa28c3ab-a8ed-472b-85e2-20df6875442a
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 0e0df4ff-e859-4ca6-a80f-85b2e2ebf5e0
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 4ce15681-41ae-4bf8-8cbb-bca5d8a9c24a
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[16:53:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:53:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2029ms behind, skipping 40 tick(s)
+[16:53:44] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:53:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:53:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:53:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[16:53:45] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:54:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6117ms behind, skipping 122 tick(s)
+[16:54:12] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:54:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2598ms behind, skipping 51 tick(s)
+[16:54:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:54:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID aa28c3ab-a8ed-472b-85e2-20df6875442a
+[16:54:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:54:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID e2962f00-28df-4d5a-b73b-9d6e6cdfcab0
+[16:54:21] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:54:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 42385a42-ee1a-40f7-9ac7-b82f345aa04b
+[16:54:31] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID 8b66777b-a234-4160-8cf2-860a610d4b12
+[16:54:31] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID aa28c3ab-a8ed-472b-85e2-20df6875442a
+[16:54:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4595ms behind, skipping 91 tick(s)
+[16:56:26] [Server thread/INFO]: nomadnick02 lost connection: Disconnected
+[16:56:26] [Server thread/INFO]: nomadnick02 left the game
+[17:05:54] [Server thread/WARN]: mhr_skr moved too quickly! -35.47947255725153,-57.0,-206.99779423685743
+[17:05:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5220ms behind, skipping 104 tick(s)
+[17:42:05] [Server thread/INFO]: mhr_skr fell from a high place
+[17:42:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
+[17:42:45] [Server thread/WARN]: mhr_skr moved too quickly! -35.114075872704326,-57.0,-206.94399327872196
+[17:51:48] [Server thread/WARN]: mhr_skr moved too quickly! -6.881821139916266,-5.0,-5.452078303886946
+[17:52:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
+[17:52:24] [Server thread/WARN]: mhr_skr moved too quickly! 35.19999998807907,57.0,207.32200439301317
+[17:54:24] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:04:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6d9180c0-3c85-4de7-9f11-d6819ef58613
+[18:06:29] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2966a559-b7fc-4d30-9e94-e9ba6a662f99
+[18:08:14] [Server thread/INFO]: mhr_skr was slain by Zombie Villager
+[18:21:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:21:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2317ms behind, skipping 46 tick(s)
+[18:22:03] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6d9180c0-3c85-4de7-9f11-d6819ef58613
+[18:22:19] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2966a559-b7fc-4d30-9e94-e9ba6a662f99
+[18:22:51] [Server thread/INFO]: mhr_skr lost connection: Disconnected
+[18:22:51] [Server thread/INFO]: mhr_skr left the game
+[18:52:15] [Server thread/INFO]: Stopping server
+[18:52:15] [Server thread/INFO]: Saving players
+[18:52:15] [Server thread/INFO]: Saving worlds
+[18:52:15] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:52:15] [Server Shutdown Thread/INFO]: Stopping server
+[18:52:15] [Server Shutdown Thread/INFO]: Saving players
+[18:52:15] [Server Shutdown Thread/INFO]: Saving worlds
+[18:52:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[18:52:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:52:15] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:52:15] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[18:52:15] [Server thread/INFO]: Saving chunks for level 'world'/the_end
